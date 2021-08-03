@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dashpy a sofware Enginneer working remotly at a startup from Paraguay as a frontend enginner
+- 👋 Hi, I’m @dashpy a sofware Enginneer working remotly as a frontend enginner
 - 👀 I’m interested in learning about big data and improvements tools and concepts
 - 🌱 I’m currently learning specifically testing redux 
 - 💞️ I’m looking to collaborate on open source projects or projects with the latest fw
