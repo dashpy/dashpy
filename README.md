@@ -4,9 +4,10 @@ Computer Enginneer working remotly as a frontend enginner for a product belongin
 
 I'm a developer with different hats ... sometimes frontend, sometime backend and a few times Scrum Master. I often write articles at my LinkedIn Profile about different topics (I like blogging, knowledge should be share).
 
-### 🤓 I’m interested in 
+### 🤓 I’m interested in learning about
 - big data 
 - improvements tools (CI/CD) and advance concepts 
+- Scale patterns
 
 
 ###   🌱 I’m currently learning 
