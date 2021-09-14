@@ -12,7 +12,7 @@ I'm a developer with different hats ... sometimes frontend, sometime backend and
 
 
 ###   🌱 I’m currently learning 
- - Advance concepts about JS
+ - Advance concepts about JS and Epic React Course 🚀
  
 👨‍💻 I’m looking to collaborate on open source projects or projects with the latest fw
 
