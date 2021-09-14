@@ -8,6 +8,7 @@ I'm a developer with different hats ... sometimes frontend, sometime backend and
 - big data 
 - improvements tools (CI/CD) and advance concepts 
 - Scale patterns
+- Projects private or open sources that face problems to climate change
 
 
 ###   🌱 I’m currently learning 
