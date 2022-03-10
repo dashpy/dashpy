@@ -1,6 +1,7 @@
-### 👋 Hey I’m @dashpy
+![github-header-image](https://user-images.githubusercontent.com/16980987/157561081-b470b121-b448-4005-94c4-571c5be1b6ea.png)
+### 👋 Hey 
 
-Computer Enginneer working remotly as a frontend enginner for a product belonging to one of the 🦄 based in Amsterdam under the title of Frontend Engineer.
+Working remotly as a frontend enginner for a product belonging to one of the 🦄 based in Amsterdam under the title of Frontend Engineer.
 
 I'm a developer with different hats ... sometimes frontend, sometime backend and a few times Scrum Master. I often write articles at my LinkedIn Profile about different topics (I like blogging, knowledge should be share).
 
