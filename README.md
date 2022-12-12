@@ -1,26 +1,26 @@
-![github-header-image](https://user-images.githubusercontent.com/16980987/157561081-b470b121-b448-4005-94c4-571c5be1b6ea.png)
+
 ### 👋 Hey 
 
-Working remotly as a frontend enginner for a product belonging to one of the 🦄 based in Amsterdam under the title of Frontend Engineer.
-
-I'm a developer with different hats ... sometimes frontend, sometime backend and a few times Scrum Master. I often write articles at my LinkedIn Profile about different topics (I like blogging, knowledge should be share).
+I'm a Computer Engineer with different hats sometimes frontend, sometimes backend, and a occasional Scrum Master. I often write articles on my LinkedIn Profile about different topics. I'm currently working on different projects and taking some time off from work. During the last 3 years (2019-2022) I have been working as a Frontend Engineer in a company based in Amsterdam on multiple projects.
 
 ### 🤓 I’m interested in learning about
-- big data 
-- improvements tools (CI/CD) and advance concepts 
+- Big data 
+- Improvements tools (CI/CD) and advance concepts 
 - Scale patterns
-- Projects private or open sources that face problems to climate change
 
+### :rocket: I'm open to collaborate with
+- Projects private or open sources that face problems to climate change or health issues
 
 ###   🌱 I’m currently learning 
  - Advance concepts about JS and Epic React Course 🚀
- 
-👨‍💻 I’m looking to collaborate on open source projects or projects with the latest fw
 
-- 📫 You can send me an email at fdra2323@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/) or checkout my progress at [FreeCodeCamp](https://www.freecodecamp.org/dashpy)
+
+- 📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/) or checkout my progress at [FreeCodeCamp](https://www.freecodecamp.org/dashpy)
 
 <!---
 dashpy/dashpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Below you will find the latest project I've done
+Below you will find the latest project I've done & some stats about the most languages that I use in my projects
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dashpy&count_private=true)
