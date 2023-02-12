@@ -12,10 +12,10 @@ I'm a Computer Engineer with different hats sometimes frontend, sometimes backen
 - Projects private or open sources that face problems to climate change or health issues
 
 ###   🌱 I’m currently learning 
- - Advance concepts about JS and Epic React Course 🚀
+ - Apollo GraphQL and NPL
 
 
-- 📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/) or checkout my progress at [FreeCodeCamp](https://www.freecodecamp.org/dashpy)
+- 📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/).
 
 <!---
 dashpy/dashpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
