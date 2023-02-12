@@ -15,7 +15,7 @@ I'm a Computer Engineer with different hats sometimes frontend, sometimes backen
  - Apollo GraphQL and NPL
 
 
-- 📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/).
+📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/).
 
 <!---
 dashpy/dashpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
