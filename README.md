@@ -1,7 +1,7 @@
 
 ### 👋 Hey 
 
-I'm a Computer Engineer with different hats sometimes frontend, sometimes backend, and a occasional Scrum Master. I often write articles on my LinkedIn Profile about different topics. I'm currently working on different projects and taking some time off from work. During the last 3 years (2019-2022) I have been working as a Frontend Engineer in a company based in Amsterdam on multiple projects.
+I'm a Computer Engineer with different hats sometimes frontend, sometimes backend, and a occasional Scrum Master. I often write articles on my LinkedIn Profile about different topics. I'm currently working on different projects and taking some time off from work. During the last 3 years (2019-2022) I have been working as a Frontend Engineer in a company based in Amsterdam on multiple projects and now I'm working in a startup from CDMX with Python and React.
 
 ### 🤓 I’m interested in learning about
 - Big data 
