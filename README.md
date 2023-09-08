@@ -12,7 +12,7 @@ I'm a Computer Engineer with different hats sometimes frontend, sometimes backen
 - Projects private or open sources that face problems to climate change or health issues
 
 ###   🌱 I’m currently learning 
- - Apollo GraphQL and NPL
+ - Apollo GraphQL and Gatsby.
 
 
 📫 You can send me an email at federicoromanpy@gmail.com or find me at [LinkedIn](https://www.linkedin.com/in/federico-daniel-roman-acosta/).
